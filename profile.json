@@ -11,7 +11,7 @@
   "revocationList": "https://github.com/rogergili2/certs/blob/main/revocation-list.json",
   "publicKey": [
     {
-      "id": "“ecdsa-koblitz-pubkey:",
+      "id": "“ecdsa-koblitz-pubkey:0xfFf65dd956FBa24B3087a5321042937704990cc8",
       "created": "2022-07-07T14:48:03.814936+00:00"
     }
   ]
